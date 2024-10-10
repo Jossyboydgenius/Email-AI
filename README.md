@@ -37,13 +37,13 @@ Follow the steps below to install and setup the project:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Elliott-Chong/normalhuman.git
+   https://github.com/Jossyboydgenius/Email-AI.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd normalhuman
+   cd Email-AI
    ```
 
 3. **Install Node.js**
